@@ -1,2 +1,2 @@
-# rule-providers
-rule-providers
+# Custom rule providers
+Self-use configuration
