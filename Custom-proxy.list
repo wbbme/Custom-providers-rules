@@ -1,4 +1,5 @@
-# Custom start ======================================== https://clash.wiki/configuration/rules.html
+# Custom start
+# https://clash.wiki/configuration/rules.html
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,agora.io
 DOMAIN-SUFFIX,anyfastcloud.com
@@ -28,4 +29,21 @@ DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,gemini.google.com
-
+# Openai
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,livekit.cloud
